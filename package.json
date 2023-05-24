@@ -1,0 +1,14 @@
+{
+  "name": "teste-quadro",
+  "version": "1.0.0",
+  "description": "teste unitario - quarta-feira",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pedro Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
